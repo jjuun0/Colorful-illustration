@@ -10,6 +10,18 @@
 - Finetuning was done using lora based on SDXL 1.0.
 
 ## How to use
+- Environment: testing
+  ```
+  diffusers==0.21.4
+  transformers==4.35.0
+  opencv-python
+  torch==1.12.0+cu113
+  accelerate==0.24.1
+  ```
+- RUN
+	- `python app.py`
+   
+ 	 	![app.py](https://github.com/jjuun0/Colorful-illustration/assets/66052461/18fd66b4-7fd0-49d7-8367-8e84a0e65207)
 
 - Prompt 
 	- Please include **"a colorful"** to write the simple prompt you want to create.  
