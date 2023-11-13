@@ -32,3 +32,7 @@
 	- Randomize seed: check when you want the seed of a random value.
 	- Additional prompt: write additionally in Prompt. (ex: high quality)
 	- Negative prompt: write it so that objects you do not want are not created.
+
+
+### certificate
+![image](https://github.com/jjuun0/Colorful-illustration/assets/66052461/7c19cabb-5fcd-492a-9d55-dd4787876512)
